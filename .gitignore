@@ -1,0 +1,21 @@
+
+# basic_approaches/
+basic_approaches/__pycache__/
+basic_approaches/.ipynb_checkpoints/
+basic_approaches/.idea/
+
+
+# mask_checking/
+mask_checking/.ipynb_checkpoints/
+
+
+# path_creating/
+path_creating/.ipynb_checkpoints/
+
+
+# GP-GAN/
+GP-GAN/output_path/
+GP-GAN/__pycache__/
+GP-GAN/.ipynb_checkpoints/
+
+
