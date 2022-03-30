@@ -241,5 +241,13 @@ After training the GAN, we can load the weights and blend images. The supported 
 You have to run `python GP-GAN/run_gp_gan.py`  
 (e.g. python GP-GAN/run_gp_gan.py  --generator_path 'output_path/experiment_name/GP-GAN_2021-06-13-07-35-07.ckpt-215170410005')
 
+Plotting of the results:
+| Image | Mask |
+| --- | --- |
+| ![](GP-GAN/DataBase/example_results/img/bremen_000239_000019_0.jpg) | ![](GP-GAN/DataBase/example_results/mask/bremen_000239_000019_0.png) | 
+| --- | --- |
+| ![](GP-GAN/DataBase/example_results/img/munster_000153_000019_3.jpg) | ![](GP-GAN/DataBase/example_results/mask/munster_000153_000019_3.png) | 
+| --- | --- |
+| ![](GP-GAN/DataBase/example_results/img/darmstadt_000056_000019_6.jpg) | ![](GP-GAN/DataBase/example_results/mask/darmstadt_000056_000019_6.png) | 
 
 ### For more information read Basic_&_deep_learning_approaches.pdf
