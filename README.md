@@ -245,9 +245,7 @@ Plotting of the results:
 | Image | Mask |
 | --- | --- |
 | ![](GP-GAN/DataBase/example_results/img/bremen_000239_000019_0.jpg) | ![](GP-GAN/DataBase/example_results/mask/bremen_000239_000019_0.png) | 
-| --- | --- |
 | ![](GP-GAN/DataBase/example_results/img/munster_000153_000019_3.jpg) | ![](GP-GAN/DataBase/example_results/mask/munster_000153_000019_3.png) | 
-| --- | --- |
 | ![](GP-GAN/DataBase/example_results/img/darmstadt_000056_000019_6.jpg) | ![](GP-GAN/DataBase/example_results/mask/darmstadt_000056_000019_6.png) | 
 
 ### For more information read Basic_&_deep_learning_approaches.pdf
